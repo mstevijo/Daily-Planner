@@ -3,6 +3,8 @@
 This activity was about creating a daily planner for the work day that displays the hours from 9am to 5pm and must have the current time and day displaying at the top of the calendar. The object is to get the calendar to work with moment.js to to display local time and to change the colors of the past present and future time. The calendar is to have 1 hour time slots for the time range to schedule your events and also contain the following fields; The time, a field to hold the user input, and the save button to store the input. 
 By clicking the save button this will store the time and the input in the locatStorage setting.
 
+https://mstevijo.github.io/Daily-Planner/
+
 Minimum Requirements
 Functional, deployed application.
 
